@@ -9,3 +9,6 @@
   <a href="https://aistudio.google.com/apps">Start building</a>
 
 </div>
+
+Agri Mitra is an AI-powered agricultural assistant designed to empower farmers with real-time farming intelligence and actionable advice. By integrating Google Gemini's multimodal capabilities, the app allows users to diagnose crop diseases through photo uploads, receive tailored fertilizer and crop recommendations based on soil conditions, and access market trends. Built with regional multilingual support, Agri Mitra bridges the gap between complex agricultural science and everyday farming, making sustainable, high-yield agriculture accessible to all.
+
